@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    background-color: cornflowerblue;
+}
+marquee {
+        font-size: 20px;
+    font-family: cursive;
+    color: firebrick;
+    font-weight: bold; 
+}
+img {
+    text-align: center;
+}

@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    background-color: lightseagreen;
+}
+marquee {
+    font-size: 20px;
+    font-family: cursive;
+    color: darkblue;
+    font-weight: bold;
+}
+h5 {
+    font-size: 22px;
+    color: firebrick;
+    font-family: serif;
+    font-weight: bolder;
+}

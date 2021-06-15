@@ -1,0 +1,27 @@
+
+.MPS {
+width: 1000px;
+height: 500px;
+}
+marquee {
+    font-size: 20px;
+    font-family: cursive;
+}
+hr {
+    background-color: darkblue;
+    width: 100%;
+        
+}
+
+body {
+text-align: center;
+background-color: lightgreen;
+}
+h5 {
+color: navy;
+    font-size: 20px;
+}
+p {
+font-size: 20px;
+}
+
